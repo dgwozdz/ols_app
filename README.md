@@ -1,4 +1,4 @@
-# Orninary Least Squares app
+# Orninary Least Squares Application
 
 This is the code for an app which:
 
